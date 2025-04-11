@@ -115,5 +115,4 @@ Applies trained model to full-size (2048×2048) DIC MIP images.
 ## 📌 Citation
 If you use this code for research or publications, please cite:
 
-> _"Deep learning-based DIC cell segmentation using Mask R-CNN on compression microscopy images."_  
-> Yun H.G., Choi S., Hanyang University, 2025
+>
