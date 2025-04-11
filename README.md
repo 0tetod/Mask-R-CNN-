@@ -6,7 +6,7 @@ This repository contains a full Mask R-CNN pipeline for segmenting DIC cell imag
 
 - **Objective lens**: CFI Plan Apochromat VC 60X WI  
 - **Cell line**: Raji  
-- **Training GPU**: one A100
+- **Training GPU**: one A4000
 - **Also works for**: 40X images or other cell types
 
 ---
